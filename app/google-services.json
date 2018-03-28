@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384295851809",
+    "firebase_url": "https://login-2c89c.firebaseio.com",
+    "project_id": "login-2c89c",
+    "storage_bucket": "login-2c89c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384295851809:android:5a95b64dd3689577",
+        "android_client_info": {
+          "package_name": "com.example.opilane.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384295851809-v6fa3vmrp0su1r68toqiv6jl6lb4b0d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLxppqczjTT9ChEeGqAPDRvnkfKLMtxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
